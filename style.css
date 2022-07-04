@@ -42,3 +42,36 @@ ol {
 ol li:before {
   content: "✓";
 }
+.card-on {
+  width: 50%;
+  margin: 5%;
+  padding: 10px;
+  border: 2px solid tomato;
+  box-shadow: 0 0 10px 5px;
+}
+.text-style {
+  text-align: center;
+}
+.card-to {
+  width: 30%;
+  margin: 5%;
+  padding: 10px;
+  box-shadow: 0 0 20px 10px;
+  padding: 10px;
+}
+.card-to imag {
+  width: 90%;
+}
+.car-lo {
+  width: 30%;
+  margin: 5%;
+}
+.car-lo video {
+  width: 100%;
+}
+.car-lo ul li {
+  padding: 5px;
+  background-color: gray;
+  margin: 4px;
+  border-radius: 5px;
+}
