@@ -1,0 +1,44 @@
+body {
+  background-color: #3a3b3c;
+  color: aliceblue;
+  font-family: "Black Ops One", cursive;
+}
+h1 {
+  font-size: 50px;
+}
+.first-section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  margin: 5%;
+  padding: 10px;
+}
+.half-width img {
+  width: 90%;
+}
+.half-width input {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 200px;
+}
+.half-width button {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #3090c7;
+}
+span {
+  color: #ee9a4d;
+}
+p {
+  color: gray;
+}
+ol {
+  list-style: none;
+}
+
+ol li:before {
+  content: "✓";
+}
