@@ -75,3 +75,23 @@ ol li:before {
   margin: 4px;
   border-radius: 5px;
 }
+.divided-width {
+  width: 30%;
+  margin: 5%;
+  box-shadow: 0 0 10px 5px black;
+  padding: 20px;
+  text-align: justify;
+  border-radius: 10px;
+}
+.button {
+  background-color: tomato;
+  margin: 10px;
+  padding: 15px;
+  width: 300px;
+  color: wheat;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 10px;
+  margin-left: 500px;
+  box-shadow: 0 0 10px 10px black;
+}
